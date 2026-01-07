@@ -1,0 +1,7 @@
+{
+  "tasks": [
+    { "time": "09:00", "text": "Meeting" },
+    { "time": "11:30", "text": "Lernen" },
+    { "time": "18:00", "text": "Sport" }
+  ]
+}
