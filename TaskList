@@ -1,6 +1,6 @@
 {
   "tasks": [
-    { "time": "09:00", "text": "Meeting" },
+    { "time": "09:00", "text": "Meeting, um herauszufinden, wievil text da rein passt" },
     { "time": "11:30", "text": "Lernen" },
     { "time": "12:00", "text": "Mittagspause" },
     { "time": "15:30", "text": "Kaffeepause" },
