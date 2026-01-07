@@ -2,6 +2,9 @@
   "tasks": [
     { "time": "09:00", "text": "Meeting" },
     { "time": "11:30", "text": "Lernen" },
+    { "time": "12:00", "text": "Mittagspause" },
+    { "time": "15:30", "text": "Kaffeepause" },
+    { "time": "17:00", "text": "Feierabend" },
     { "time": "18:00", "text": "Sport" }
   ]
 }
